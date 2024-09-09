@@ -61,7 +61,7 @@ jobs:
               "attributes": {
                 "requested_by": {"name": "DevOps System"},
                 "cmdb_ci": {"name": "ServiceNow Corpsite"},
-                "business_service": {"name": "ServiceNow Corpsite Service"},
+                "business_service": {"name": "ServiceNow CI No Incidents"},
                 "assignment_group": {"name": "DevOps Connect"},
                 "assigned_to": {"name": "Hrijula Bose"},
                 "priority": "2",
