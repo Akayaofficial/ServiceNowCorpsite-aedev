@@ -62,7 +62,7 @@ jobs:
                 "requested_by": {"name": "Alpaslan Kaya"},
                 "cmdb_ci": {"name": "ServiceNow CI No Incidents"},
                 "business_service": {"name": "ServiceNow Corpsite Service"},
-                "assignment_group": {"name": "DevOps Connect"},
+                "assignment_group": {"name": "ACEPlatform_SRE"},
                 "assigned_to": {"name": "Hrijula Bose"},
                 "priority": "2",
                 "comments": "This is a sample pipeline script to be added in your change step",
