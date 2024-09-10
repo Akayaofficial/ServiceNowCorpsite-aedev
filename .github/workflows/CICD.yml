@@ -59,7 +59,7 @@ jobs:
           change-request: |
             {
               "attributes": {
-                "requested_by": {"name": "DevOps System"},
+                "requested_by": {"name": "Alpaslan Kaya"},
                 "cmdb_ci": {"name": "ServiceNow CI No Incidents"},
                 "business_service": {"name": "ServiceNow Corpsite Service"},
                 "assignment_group": {"name": "DevOps Connect"},
