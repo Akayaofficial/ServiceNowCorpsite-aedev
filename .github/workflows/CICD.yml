@@ -60,7 +60,7 @@ jobs:
             {
               "attributes": {
                 "requested_by": {"name": "Alpaslan Kaya"},
-                "cmdb_ci": {"name": "ServiceNow CI No Incidents"},
+                "cmdb_ci": {"name": "blr-dc1nemo2dla"},
                 "business_service": {"name": "ServiceNow Corpsite Service"},
                 "assignment_group": {"name": "DevOps Connect"},
                 "assigned_to": {"name": "Hrijula Bose"},
