@@ -70,6 +70,6 @@ jobs:
                 "u_mitigation_for_operational_impact": "Back change out",
                 "u_time_for_mitigation_to_complete": "Greater than 60 minutes",
                 "u_mitigation_is_successfully_tested": "No",
-                "u_validation_type": "No validation as part of RFC"
+                "u_validation_type": "No validation as part of this RFC"
               }
             }
